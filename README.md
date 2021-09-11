@@ -1,6 +1,6 @@
 <h3 align="center">backend developer</h3>
 
-- 🔭 I’m currently working on **maybe spoofer (:**
+- 🔭 I’m currently working on **spoofer (:**
 
 
 <h3 align="left">Languages and Tools:</h3>
