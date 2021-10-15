@@ -1,6 +1,6 @@
 <h3 align="center">backend developer</h3>
 
-- 🔭 I’m currently working on **PHP (:**
+- 🔭 I’m currently working on **c++ (:**
 
 
 <h3 align="left">Languages and Tools:</h3>
